@@ -7,8 +7,10 @@ Aplicación web de pedidos de comida: catálogo con carrito, checkout, seguimien
 
 ## Enlaces de entrega
 
-- Repositorio: _(completar con la URL del repositorio)_
-- Video de demostración: _(completar con la URL del video)_
+- Repositorio: https://github.com/NicoGuzmanTUP/TPI-program
+- Video de demostración: [ver en SharePoint](https://leautneduar-my.sharepoint.com/:v:/g/personal/facundo_guzman_tupad_utn_edu_ar/IQCTxXahf3_zTKcDeKMi-h1bAVuXAt-MIBAy2EnSQ14Ay1g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cwO1dF)
+
+> **Importante:** el enlace del video vence el **26 de noviembre de 2026**.
 
 ## Requisitos
 
@@ -70,3 +72,5 @@ El seed crea el usuario:
 - Contraseña: `Admin1234!`
 
 Cualquier otro usuario se crea desde la pantalla de registro y tiene el rol `user`.
+
+Para ingresar se puede usar el nombre de usuario o el email.
